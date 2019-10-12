@@ -1,5 +1,5 @@
 This is the source code for the paper titled "Exploiting Stereo Sound Channels to Boost Performance of Neural Network-Based Music Transcription". 
-This paper has been submitted to IEEE MLSP 2019.
+This paper has been accepted by the special session on deep learning at the 18th IEEE International Conference on Machine Learning and Applications (IEEE ICMLA-2019).
 
 Instructions on Using This Code.
 
